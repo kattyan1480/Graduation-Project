@@ -93,3 +93,9 @@
   * Tailwind CSS（UI/UX）
   * Axios（React）（API コミュニケーション）
   * Hotwire（Rails）（API コミュニケーション）
+
+## 画面遷移図
+Figma：https://www.figma.com/design/A793zZLVc6GfImzRci6Byr/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=3enLzdHlhxLzvVA8-1
+
+## ER図
+draw.io：https://drive.google.com/file/d/1NLjrRz7PKwE2n1NU8IvBn_4rCa71fMwh/view?usp=sharing
